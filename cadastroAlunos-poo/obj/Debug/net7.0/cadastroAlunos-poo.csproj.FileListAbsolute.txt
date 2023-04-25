@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\bin\Debug\net7.0\cadastroAlunos-poo.exe
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\bin\Debug\net7.0\cadastroAlunos-poo.deps.json
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\bin\Debug\net7.0\cadastroAlunos-poo.runtimeconfig.json
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\bin\Debug\net7.0\cadastroAlunos-poo.dll
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\bin\Debug\net7.0\cadastroAlunos-poo.pdb
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\obj\Debug\net7.0\cadastroAlunos-poo.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\obj\Debug\net7.0\cadastroAlunos-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\obj\Debug\net7.0\cadastroAlunos-poo.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\obj\Debug\net7.0\cadastroAlunos-poo.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\obj\Debug\net7.0\cadastroAlunos-poo.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\obj\Debug\net7.0\cadastroAlunos-poo.dll
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\obj\Debug\net7.0\refint\cadastroAlunos-poo.dll
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\obj\Debug\net7.0\cadastroAlunos-poo.pdb
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\obj\Debug\net7.0\cadastroAlunos-poo.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\cadastroAlunos-poo\obj\Debug\net7.0\ref\cadastroAlunos-poo.dll
