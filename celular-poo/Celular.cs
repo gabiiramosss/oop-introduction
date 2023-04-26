@@ -16,19 +16,31 @@ namespace celular_poo
         //Métodos
         public void Ligar()
         {
-            Console.WriteLine($"O celular ligou!");
+            if (ligado == true)
+            {
+                Console.WriteLine($"O celular ligou!");
+            }
         }
         public void FazerLigacao()
         {
-            Console.WriteLine($"O celular fez ligações.");
+            if (ligado == true)
+            {
+                Console.WriteLine($"O celular fez ligações.");
+            }
         }
         public void EnviarMensagem()
         {
-            Console.WriteLine($"O celular enviou mensagens.");
-        }  
+            if (ligado == true)
+            {
+                Console.WriteLine($"O celular enviou mensagens.");
+            }
+        }
         public void Desligar()
         {
-            Console.WriteLine($"O celular desligou!");
+            if (ligado == true)
+            {
+                Console.WriteLine($"O celular desligou!");
+            }
             ligado = false;
         }
     }

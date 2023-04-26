@@ -16,12 +16,17 @@ Console.WriteLine($"Qual o tamanho do celular?");
 novoCel.tamanho = Console.ReadLine();
 
 Console.WriteLine($"O celular está ligado? Responda 's' ou 'n': ");
-string resposta = Console.ReadLine();
+string resposta = Console.ReadLine().ToLower();
 
 if (resposta == "s")
 {
+    novoCel.ligado = true;
     novoCel.Ligar();
-    novoCel.FazerLigacao();
     novoCel.EnviarMensagem();
+    novoCel.FazerLigacao();
     novoCel.Desligar();
+}
+else
+{
+    novoCel.ligado = false;
 }

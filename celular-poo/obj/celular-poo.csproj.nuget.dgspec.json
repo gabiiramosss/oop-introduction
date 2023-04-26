@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\50579698890\\Desktop\\celular-poo\\celular-poo.csproj": {}
+    "C:\\Users\\50579698890\\Desktop\\POO\\celular-poo\\celular-poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\50579698890\\Desktop\\celular-poo\\celular-poo.csproj": {
+    "C:\\Users\\50579698890\\Desktop\\POO\\celular-poo\\celular-poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\50579698890\\Desktop\\celular-poo\\celular-poo.csproj",
+        "projectUniqueName": "C:\\Users\\50579698890\\Desktop\\POO\\celular-poo\\celular-poo.csproj",
         "projectName": "celular-poo",
-        "projectPath": "C:\\Users\\50579698890\\Desktop\\celular-poo\\celular-poo.csproj",
+        "projectPath": "C:\\Users\\50579698890\\Desktop\\POO\\celular-poo\\celular-poo.csproj",
         "packagesPath": "C:\\Users\\50579698890\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\50579698890\\Desktop\\celular-poo\\obj\\",
+        "outputPath": "C:\\Users\\50579698890\\Desktop\\POO\\celular-poo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\50579698890\\AppData\\Roaming\\NuGet\\NuGet.Config",
