@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\coffeeMachine-poo\bin\Debug\net7.0\coffeeMachine-poo.exe
+C:\Users\50579698890\Desktop\coffeeMachine-poo\bin\Debug\net7.0\coffeeMachine-poo.deps.json
+C:\Users\50579698890\Desktop\coffeeMachine-poo\bin\Debug\net7.0\coffeeMachine-poo.runtimeconfig.json
+C:\Users\50579698890\Desktop\coffeeMachine-poo\bin\Debug\net7.0\coffeeMachine-poo.dll
+C:\Users\50579698890\Desktop\coffeeMachine-poo\bin\Debug\net7.0\coffeeMachine-poo.pdb
+C:\Users\50579698890\Desktop\coffeeMachine-poo\obj\Debug\net7.0\coffeeMachine-poo.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\coffeeMachine-poo\obj\Debug\net7.0\coffeeMachine-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\coffeeMachine-poo\obj\Debug\net7.0\coffeeMachine-poo.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\coffeeMachine-poo\obj\Debug\net7.0\coffeeMachine-poo.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\coffeeMachine-poo\obj\Debug\net7.0\coffeeMachine-poo.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\coffeeMachine-poo\obj\Debug\net7.0\coffeeMachine-poo.dll
+C:\Users\50579698890\Desktop\coffeeMachine-poo\obj\Debug\net7.0\refint\coffeeMachine-poo.dll
+C:\Users\50579698890\Desktop\coffeeMachine-poo\obj\Debug\net7.0\coffeeMachine-poo.pdb
+C:\Users\50579698890\Desktop\coffeeMachine-poo\obj\Debug\net7.0\coffeeMachine-poo.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\coffeeMachine-poo\obj\Debug\net7.0\ref\coffeeMachine-poo.dll
