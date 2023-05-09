@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\currencyConverter-oop\bin\Debug\net7.0\currencyConverter-oop.exe
+C:\Users\50579698890\Desktop\currencyConverter-oop\bin\Debug\net7.0\currencyConverter-oop.deps.json
+C:\Users\50579698890\Desktop\currencyConverter-oop\bin\Debug\net7.0\currencyConverter-oop.runtimeconfig.json
+C:\Users\50579698890\Desktop\currencyConverter-oop\bin\Debug\net7.0\currencyConverter-oop.dll
+C:\Users\50579698890\Desktop\currencyConverter-oop\bin\Debug\net7.0\currencyConverter-oop.pdb
+C:\Users\50579698890\Desktop\currencyConverter-oop\obj\Debug\net7.0\currencyConverter-oop.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\currencyConverter-oop\obj\Debug\net7.0\currencyConverter-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\currencyConverter-oop\obj\Debug\net7.0\currencyConverter-oop.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\currencyConverter-oop\obj\Debug\net7.0\currencyConverter-oop.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\currencyConverter-oop\obj\Debug\net7.0\currencyConverter-oop.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\currencyConverter-oop\obj\Debug\net7.0\currencyConverter-oop.dll
+C:\Users\50579698890\Desktop\currencyConverter-oop\obj\Debug\net7.0\refint\currencyConverter-oop.dll
+C:\Users\50579698890\Desktop\currencyConverter-oop\obj\Debug\net7.0\currencyConverter-oop.pdb
+C:\Users\50579698890\Desktop\currencyConverter-oop\obj\Debug\net7.0\currencyConverter-oop.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\currencyConverter-oop\obj\Debug\net7.0\ref\currencyConverter-oop.dll
