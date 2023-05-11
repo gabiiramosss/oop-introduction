@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\bin\Debug\net7.0\car-oop.exe
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\bin\Debug\net7.0\car-oop.deps.json
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\bin\Debug\net7.0\car-oop.runtimeconfig.json
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\bin\Debug\net7.0\car-oop.dll
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\bin\Debug\net7.0\car-oop.pdb
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\obj\Debug\net7.0\car-oop.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\obj\Debug\net7.0\car-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\obj\Debug\net7.0\car-oop.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\obj\Debug\net7.0\car-oop.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\obj\Debug\net7.0\car-oop.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\obj\Debug\net7.0\car-oop.dll
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\obj\Debug\net7.0\refint\car-oop.dll
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\obj\Debug\net7.0\car-oop.pdb
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\obj\Debug\net7.0\car-oop.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\oop-introduction\car-oop\obj\Debug\net7.0\ref\car-oop.dll
