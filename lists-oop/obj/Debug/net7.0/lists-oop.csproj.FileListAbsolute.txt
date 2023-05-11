@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\lists-oop\bin\Debug\net7.0\lists-oop.exe
+C:\Users\50579698890\Desktop\lists-oop\bin\Debug\net7.0\lists-oop.deps.json
+C:\Users\50579698890\Desktop\lists-oop\bin\Debug\net7.0\lists-oop.runtimeconfig.json
+C:\Users\50579698890\Desktop\lists-oop\bin\Debug\net7.0\lists-oop.dll
+C:\Users\50579698890\Desktop\lists-oop\bin\Debug\net7.0\lists-oop.pdb
+C:\Users\50579698890\Desktop\lists-oop\obj\Debug\net7.0\lists-oop.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\lists-oop\obj\Debug\net7.0\lists-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\lists-oop\obj\Debug\net7.0\lists-oop.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\lists-oop\obj\Debug\net7.0\lists-oop.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\lists-oop\obj\Debug\net7.0\lists-oop.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\lists-oop\obj\Debug\net7.0\lists-oop.dll
+C:\Users\50579698890\Desktop\lists-oop\obj\Debug\net7.0\refint\lists-oop.dll
+C:\Users\50579698890\Desktop\lists-oop\obj\Debug\net7.0\lists-oop.pdb
+C:\Users\50579698890\Desktop\lists-oop\obj\Debug\net7.0\lists-oop.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\lists-oop\obj\Debug\net7.0\ref\lists-oop.dll
